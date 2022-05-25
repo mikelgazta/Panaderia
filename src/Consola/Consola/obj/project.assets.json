@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Modelos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data.dll": {}
+        }
+      },
+      "Modelos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Modelos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Modelos.dll": {}
+        }
+      },
+      "Panaderia/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Data": "1.0.0",
+          "Modelos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Panaderia.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Panaderia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Data/1.0.0": {
+      "type": "project",
+      "path": "../../Data/Data/Data.csproj",
+      "msbuildProject": "../../Data/Data/Data.csproj"
+    },
+    "Modelos/1.0.0": {
+      "type": "project",
+      "path": "../../Modelos/Modelos/Modelos.csproj",
+      "msbuildProject": "../../Modelos/Modelos/Modelos.csproj"
+    },
+    "Panaderia/1.0.0": {
+      "type": "project",
+      "path": "../../Panaderia/Panaderia/Panaderia.csproj",
+      "msbuildProject": "../../Panaderia/Panaderia/Panaderia.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Data >= 1.0.0",
+      "Modelos >= 1.0.0",
+      "Panaderia >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Mikel\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\Otros ordenadores\\Mi PC\\dev\\Panaderia\\src\\Consola\\Consola\\Consola.csproj",
+      "projectName": "Consola",
+      "projectPath": "G:\\Otros ordenadores\\Mi PC\\dev\\Panaderia\\src\\Consola\\Consola\\Consola.csproj",
+      "packagesPath": "C:\\Users\\Mikel\\.nuget\\packages\\",
+      "outputPath": "G:\\Otros ordenadores\\Mi PC\\dev\\Panaderia\\src\\Consola\\Consola\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Mikel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "G:\\Otros ordenadores\\Mi PC\\dev\\Panaderia\\src\\Data\\Data\\Data.csproj": {
+              "projectPath": "G:\\Otros ordenadores\\Mi PC\\dev\\Panaderia\\src\\Data\\Data\\Data.csproj"
+            },
+            "G:\\Otros ordenadores\\Mi PC\\dev\\Panaderia\\src\\Modelos\\Modelos\\Modelos.csproj": {
+              "projectPath": "G:\\Otros ordenadores\\Mi PC\\dev\\Panaderia\\src\\Modelos\\Modelos\\Modelos.csproj"
+            },
+            "G:\\Otros ordenadores\\Mi PC\\dev\\Panaderia\\src\\Panaderia\\Panaderia\\Panaderia.csproj": {
+              "projectPath": "G:\\Otros ordenadores\\Mi PC\\dev\\Panaderia\\src\\Panaderia\\Panaderia\\Panaderia.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Consola.exe
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Consola.deps.json
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Consola.runtimeconfig.json
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Consola.dll
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Consola.pdb
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Data.dll
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Modelos.dll
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Panaderia.dll
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Modelos.pdb
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Panaderia.pdb
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Data.pdb
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\Consola.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\Consola.AssemblyInfoInputs.cache
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\Consola.AssemblyInfo.cs
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\Consola.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\Consola.csproj.CopyComplete
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\Consola.dll
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\refint\Consola.dll
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\Consola.pdb
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\Consola.genruntimeconfig.cache
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\ref\Consola.dll
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Consola.exe
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Consola.deps.json
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Consola.runtimeconfig.json
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Consola.dll
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Consola.pdb
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Data.dll
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Modelos.dll
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Panaderia.dll
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Modelos.pdb
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Panaderia.pdb
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\bin\Debug\net6.0\Data.pdb
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\Consola.csproj.AssemblyReference.cache
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\Consola.AssemblyInfoInputs.cache
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\Consola.AssemblyInfo.cs
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\Consola.csproj.CopyComplete
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\Consola.dll
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\refint\Consola.dll
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\Consola.pdb
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\Consola.genruntimeconfig.cache
+C:\Users\1daw3\dev\Panaderia\src\Consola\Consola\obj\Debug\net6.0\ref\Consola.dll

@@ -1,0 +1,34 @@
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Panaderia\Panaderia\bin\Debug\net6.0\Panaderia.deps.json
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Panaderia\Panaderia\bin\Debug\net6.0\Panaderia.dll
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Panaderia\Panaderia\bin\Debug\net6.0\Panaderia.pdb
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Panaderia\Panaderia\bin\Debug\net6.0\Data.dll
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Panaderia\Panaderia\bin\Debug\net6.0\Modelos.dll
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Panaderia\Panaderia\bin\Debug\net6.0\Modelos.pdb
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Panaderia\Panaderia\bin\Debug\net6.0\Data.pdb
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\Panaderia.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\Panaderia.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\Panaderia.AssemblyInfoInputs.cache
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\Panaderia.AssemblyInfo.cs
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\Panaderia.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\Panaderia.csproj.CopyComplete
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\Panaderia.dll
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\refint\Panaderia.dll
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\Panaderia.pdb
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\ref\Panaderia.dll
+C:\Users\1daw3\dev\Panaderia\src\Panaderia\Panaderia\bin\Debug\net6.0\Panaderia.deps.json
+C:\Users\1daw3\dev\Panaderia\src\Panaderia\Panaderia\bin\Debug\net6.0\Panaderia.dll
+C:\Users\1daw3\dev\Panaderia\src\Panaderia\Panaderia\bin\Debug\net6.0\Panaderia.pdb
+C:\Users\1daw3\dev\Panaderia\src\Panaderia\Panaderia\bin\Debug\net6.0\Data.dll
+C:\Users\1daw3\dev\Panaderia\src\Panaderia\Panaderia\bin\Debug\net6.0\Modelos.dll
+C:\Users\1daw3\dev\Panaderia\src\Panaderia\Panaderia\bin\Debug\net6.0\Modelos.pdb
+C:\Users\1daw3\dev\Panaderia\src\Panaderia\Panaderia\bin\Debug\net6.0\Data.pdb
+C:\Users\1daw3\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\Panaderia.csproj.AssemblyReference.cache
+C:\Users\1daw3\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\Panaderia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1daw3\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\Panaderia.AssemblyInfoInputs.cache
+C:\Users\1daw3\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\Panaderia.AssemblyInfo.cs
+C:\Users\1daw3\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\Panaderia.csproj.CoreCompileInputs.cache
+C:\Users\1daw3\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\Panaderia.csproj.CopyComplete
+C:\Users\1daw3\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\Panaderia.dll
+C:\Users\1daw3\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\refint\Panaderia.dll
+C:\Users\1daw3\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\Panaderia.pdb
+C:\Users\1daw3\dev\Panaderia\src\Panaderia\Panaderia\obj\Debug\net6.0\ref\Panaderia.dll

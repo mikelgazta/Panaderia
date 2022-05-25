@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Modelos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Modelos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Modelos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modelos/1.0.0": {
+      "type": "project",
+      "path": "../../Modelos/Modelos/Modelos.csproj",
+      "msbuildProject": "../../Modelos/Modelos/Modelos.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Modelos >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Mikel\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\Otros ordenadores\\Mi PC\\dev\\Panaderia\\src\\Data\\Data\\Data.csproj",
+      "projectName": "Data",
+      "projectPath": "G:\\Otros ordenadores\\Mi PC\\dev\\Panaderia\\src\\Data\\Data\\Data.csproj",
+      "packagesPath": "C:\\Users\\Mikel\\.nuget\\packages\\",
+      "outputPath": "G:\\Otros ordenadores\\Mi PC\\dev\\Panaderia\\src\\Data\\Data\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Mikel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "G:\\Otros ordenadores\\Mi PC\\dev\\Panaderia\\src\\Modelos\\Modelos\\Modelos.csproj": {
+              "projectPath": "G:\\Otros ordenadores\\Mi PC\\dev\\Panaderia\\src\\Modelos\\Modelos\\Modelos.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

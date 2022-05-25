@@ -1,0 +1,24 @@
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Modelos\Modelos\bin\Debug\net6.0\Modelos.deps.json
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Modelos\Modelos\bin\Debug\net6.0\Modelos.dll
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Modelos\Modelos\bin\Debug\net6.0\Modelos.pdb
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Modelos\Modelos\obj\Debug\net6.0\Modelos.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Modelos\Modelos\obj\Debug\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Modelos\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfoInputs.cache
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Modelos\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfo.cs
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Modelos\Modelos\obj\Debug\net6.0\Modelos.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Modelos\Modelos\obj\Debug\net6.0\Modelos.dll
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Modelos\Modelos\obj\Debug\net6.0\refint\Modelos.dll
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Modelos\Modelos\obj\Debug\net6.0\Modelos.pdb
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Modelos\Modelos\obj\Debug\net6.0\ref\Modelos.dll
+C:\Users\1daw3\dev\Panaderia\src\Modelos\Modelos\bin\Debug\net6.0\Modelos.deps.json
+C:\Users\1daw3\dev\Panaderia\src\Modelos\Modelos\bin\Debug\net6.0\Modelos.dll
+C:\Users\1daw3\dev\Panaderia\src\Modelos\Modelos\bin\Debug\net6.0\Modelos.pdb
+C:\Users\1daw3\dev\Panaderia\src\Modelos\Modelos\obj\Debug\net6.0\Modelos.csproj.AssemblyReference.cache
+C:\Users\1daw3\dev\Panaderia\src\Modelos\Modelos\obj\Debug\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1daw3\dev\Panaderia\src\Modelos\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfoInputs.cache
+C:\Users\1daw3\dev\Panaderia\src\Modelos\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfo.cs
+C:\Users\1daw3\dev\Panaderia\src\Modelos\Modelos\obj\Debug\net6.0\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\1daw3\dev\Panaderia\src\Modelos\Modelos\obj\Debug\net6.0\Modelos.dll
+C:\Users\1daw3\dev\Panaderia\src\Modelos\Modelos\obj\Debug\net6.0\refint\Modelos.dll
+C:\Users\1daw3\dev\Panaderia\src\Modelos\Modelos\obj\Debug\net6.0\Modelos.pdb
+C:\Users\1daw3\dev\Panaderia\src\Modelos\Modelos\obj\Debug\net6.0\ref\Modelos.dll

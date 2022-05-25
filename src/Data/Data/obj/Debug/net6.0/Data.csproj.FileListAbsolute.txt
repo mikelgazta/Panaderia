@@ -1,0 +1,30 @@
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Data\Data\bin\Debug\net6.0\Data.deps.json
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Data\Data\bin\Debug\net6.0\Data.dll
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Data\Data\bin\Debug\net6.0\Data.pdb
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Data\Data\bin\Debug\net6.0\Modelos.dll
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Data\Data\bin\Debug\net6.0\Modelos.pdb
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\Data.dll
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\refint\Data.dll
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\Data.pdb
+G:\Otros ordenadores\Mi PC\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\1daw3\dev\Panaderia\src\Data\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\1daw3\dev\Panaderia\src\Data\Data\bin\Debug\net6.0\Data.dll
+C:\Users\1daw3\dev\Panaderia\src\Data\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\1daw3\dev\Panaderia\src\Data\Data\bin\Debug\net6.0\Modelos.dll
+C:\Users\1daw3\dev\Panaderia\src\Data\Data\bin\Debug\net6.0\Modelos.pdb
+C:\Users\1daw3\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\1daw3\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1daw3\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\1daw3\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\1daw3\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\1daw3\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\1daw3\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\Data.dll
+C:\Users\1daw3\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\1daw3\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\1daw3\dev\Panaderia\src\Data\Data\obj\Debug\net6.0\ref\Data.dll
